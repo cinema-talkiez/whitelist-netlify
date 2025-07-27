@@ -1,0 +1,3 @@
+
+/api/whitelist   /.netlify/functions/whitelist   200
+/api/server      /.netlify/functions/server      200

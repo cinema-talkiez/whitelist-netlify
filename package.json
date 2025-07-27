@@ -1,0 +1,17 @@
+
+{
+  "name": "whitelist-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "echo 'Use netlify dev'"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "netlify": {
+    "functions": "netlify/functions"
+  }
+}
